@@ -17,11 +17,12 @@ After cloning, do the following:
 # Cypress Automation
 The second step to run the cypress automation tests.
 
-Run this repo locally by downloading the code celow and clone this repository.
+Run this repo locally by downloading the code below and clone this repository.
 
+git clone https://github.com/eternitycodes/Data-Test-App-Automation.git
 
 After cloning 
-* cd Data Test App Automation
+* cd Data-Test-App-Automation
 * npm install --save-dev cypress @4.5.0
 * ./node_modules/.bin/cypress open
 * Double click on **patient-registration.js** to run the automated test.
