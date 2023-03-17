@@ -1,0 +1,13 @@
+{
+  "baseUrl": "http://www.webdriveruniversity.com",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 120000,
+  "ignoreTestFiles": "**/other/*",
+ 
+  "projectId": "mp8jtz",
+  "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": "reporter-config.json"
+    }
+}
